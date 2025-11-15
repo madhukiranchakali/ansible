@@ -11,4 +11,4 @@
     vars: 
       COURSE: Ansible
     ansible.builtin.debug:
-      msg: " Course name is: {{ COURSE }}, Duration: {{ DURATION }}, Trainer: {{ TRAINER }}"
+      msg: " Course name is: {{ COURSE }}, Duration: {{ DURATION }}, Trainer: {{ Trainer }}"
